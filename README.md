@@ -2,6 +2,8 @@
 
 Unofficial Flatpak manifest for [Blender Launcher V2](https://github.com/Victor-IX/Blender-Launcher-V2).
 
+> **Requirements:** x86_64 Linux with Flatpak. Does not support ARM.
+
 ## Build & Install
 
 ```bash
