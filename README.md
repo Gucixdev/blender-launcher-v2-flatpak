@@ -4,7 +4,14 @@ Unofficial Flatpak manifest for [Blender Launcher V2](https://github.com/Victor-
 
 > **Requirements:** x86_64 Linux with Flatpak. Does not support ARM.
 
-## Build & Install
+## Quick Install (prebuilt)
+
+```bash
+curl -L "https://github.com/Gucixdev/blender-launcher-v2-flatpak/releases/download/v2.6.1/io.github.VictorIX.BlenderLauncherV2.flatpak" -o blender-launcher.flatpak
+flatpak install blender-launcher.flatpak
+```
+
+## Build from manifest
 
 ```bash
 # Install flatpak-builder
