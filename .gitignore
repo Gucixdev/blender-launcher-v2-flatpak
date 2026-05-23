@@ -4,3 +4,4 @@ build/
 extracted/
 extracted-linux/
 path/
+nohup.out
